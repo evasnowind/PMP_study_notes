@@ -59,3 +59,12 @@
 [0814/091748:INFO:exception_record.cc(518)] [QB]Process ID: 35092 Type: 4
 [0814/091919:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
 [0814/091956:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0814/092012:INFO:exception_record.cc(518)] [QB]Process ID: 33004 Type: 4
+[0814/232800:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0814/232802:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0814/232803:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0814/232803:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0814/232804:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0814/232805:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0814/232807:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0814/232807:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
